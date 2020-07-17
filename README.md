@@ -1,6 +1,4 @@
 ### Hi there! 👋🏻
-### 🌱 I’m currently learning ... SwiftUI
-### 📫 How to reach me: Linkedin, Email
 
 <!--
 **aalhsn/aalhsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
