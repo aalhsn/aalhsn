@@ -1,5 +1,5 @@
 ### Hi there! 👋🏻
-### I’m currently learning SwiftUI
+### I’m currently working on a interesting project 
 ### 📫 How to reach me: Linkedin, Email
 
 <!--
